@@ -1,0 +1,16 @@
+{
+    "name": "Dev.ComradeVanti.OptUnity",
+    "rootNamespace": "Dev.ComradeVanti.OptUnity",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "ComradeVanti.CSharpTools.Res.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
