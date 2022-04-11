@@ -1,0 +1,19 @@
+{
+  "name": "dev.comradevanti.res-unity",
+  "version": "1.0.0",
+  "description": "A unity package for using res",
+  "displayName": "res-unity",
+  "unity": "2020.3",
+  "author": {
+    "name": "ComradeVanti",
+    "email": "kingvanti650@gmail.com"
+  },
+  "keywords": [
+    "res",
+    "functional",
+    "result",
+    "utility",
+    "fhsharp"
+  ],
+  "license": "Unlicense"
+}
